@@ -1,9 +1,6 @@
 /**
  * Created by GreedyJay on 2018/10/23.
  */
-/**
- * Created by GF on 2018/1/3.
- */
 (function($){
     $.fn.showPdf = function(only_first_page){
         var _this = this,
